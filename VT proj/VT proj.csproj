@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE007200-4E36-4D27-861F-F3B9A821E0C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VT_proj</RootNamespace>
+    <AssemblyName>VT proj</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="kullanci_ekranlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanci_ekranlari.Designer.cs">
+      <DependentUpon>kullanci_ekranlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oda-otel ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oda-otel ekran.Designer.cs">
+      <DependentUpon>oda-otel ekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReservationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReservationDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReservationDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReservationDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="uey_ol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uey_ol.Designer.cs">
+      <DependentUpon>uey_ol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="uye_giris_ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uye_giris_ekran.Designer.cs">
+      <DependentUpon>uye_giris_ekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yönetici_giris_ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yönetici_giris_ekran.Designer.cs">
+      <DependentUpon>yönetici_giris_ekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YÖNETİM SİSTEMİ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YÖNETİM SİSTEMİ.Designer.cs">
+      <DependentUpon>YÖNETİM SİSTEMİ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rezervasyon ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezervasyon ekran.Designer.cs">
+      <DependentUpon>rezervasyon ekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odeme ekran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odeme ekran.Designer.cs">
+      <DependentUpon>odeme ekran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="kullanci_ekranlari.resx">
+      <DependentUpon>kullanci_ekranlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oda-otel ekran.resx">
+      <DependentUpon>oda-otel ekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uey_ol.resx">
+      <DependentUpon>uey_ol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uye_giris_ekran.resx">
+      <DependentUpon>uye_giris_ekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yönetici_giris_ekran.resx">
+      <DependentUpon>yönetici_giris_ekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YÖNETİM SİSTEMİ.resx">
+      <DependentUpon>YÖNETİM SİSTEMİ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rezervasyon ekran.resx">
+      <DependentUpon>rezervasyon ekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odeme ekran.resx">
+      <DependentUpon>odeme ekran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReservationDataSet.xsc">
+      <DependentUpon>ReservationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReservationDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ReservationDataSet.xss">
+      <DependentUpon>ReservationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet1.xsc">
+      <DependentUpon>ReservationDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReservationDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ReservationDataSet1.xss">
+      <DependentUpon>ReservationDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet2.xsc">
+      <DependentUpon>ReservationDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReservationDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ReservationDataSet2.xss">
+      <DependentUpon>ReservationDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet3.xsc">
+      <DependentUpon>ReservationDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ReservationDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReservationDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ReservationDataSet3.xss">
+      <DependentUpon>ReservationDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\pngegg %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngegg %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart1366804.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart2763872.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart531310.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart3049885.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart1420581.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart2444762.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart819876.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-registration-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart4751167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-male-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-registration-401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart1384673.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clipart47511671.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-admin-settings-male-96.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

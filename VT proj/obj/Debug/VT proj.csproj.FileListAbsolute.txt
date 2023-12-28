@@ -1,0 +1,57 @@
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.Form1.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.Properties.Resources.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT proj.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT proj.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\VT proj\VT proj\bin\Debug\VT proj.exe.config
+C:\Users\user1\source\repos\VT proj\VT proj\bin\Debug\VT proj.exe
+C:\Users\user1\source\repos\VT proj\VT proj\bin\Debug\VT proj.pdb
+C:\Users\user1\source\repos\VT proj\VT proj\bin\Debug\MaterialSkin.dll
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT proj.csproj.CopyComplete
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT proj.exe
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT proj.pdb
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.Form2.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.Form3.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT proj.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.oda_otel_ekran.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.kullanci_ekranlari.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.uey_ol.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.uye_giris_ekran.resources
+C:\Users\user1\source\repos\VT proj\VT proj\obj\Debug\VT_proj.yönetici_giris_ekran.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\VT proj.exe.config
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\VT proj.exe
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\VT proj.pdb
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\MaterialSkin.dll
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csprojAssemblyReference.cache
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.kullanci_ekranlari.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.oda_otel_ekran.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.uey_ol.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.uye_giris_ekran.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.yönetici_giris_ekran.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Form1.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Form3.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Form2.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Properties.Resources.resources
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.GenerateResource.cache
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.CoreCompileInputs.cache
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.CopyComplete
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.exe
+C:\Users\Ayse\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.pdb
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\VT proj.exe.config
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\VT proj.exe
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\VT proj.pdb
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\bin\Debug\MaterialSkin.dll
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.kullanci_ekranlari.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.oda_otel_ekran.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.uey_ol.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.uye_giris_ekran.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.yönetici_giris_ekran.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Form1.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Form3.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Form2.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT_proj.Properties.Resources.resources
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.csproj.CopyComplete
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.exe
+C:\Users\user1\source\repos\OPHELIA-S-OASIS\VT proj\obj\Debug\VT proj.pdb
